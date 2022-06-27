@@ -1,0 +1,78 @@
+.loma{
+	color:white;
+	
+	
+
+}
+
+.class1{
+	font-size:60;
+	text-align:center;
+}
+
+.class1a{
+	text-align:center;
+	font-weight:700;
+	font-size:20;
+	
+}
+
+	
+body{
+	background-image:url(back7.jpg);
+	background-repeat:no-repeat;
+	background-size:200%;
+
+}
+
+.loma2{
+	color:white;
+	
+}
+
+.class2{
+	font-size:60;
+	text-align:center;
+}
+
+.class2a{
+	text-align:center;
+	font-size:20px;
+	font-weight:700;
+}
+
+.loma3{
+	color:white;
+	margin-top:-100;
+	margin-left:180;
+}
+
+.class3{
+	font-size:60;
+	
+}
+.class3a{
+    font-size:20px;
+	font-weight:700;
+	margin-top:-50;
+}
+
+.class1b{
+	height:500;
+	width:850;
+	margin-left:200;
+	margin-top:-70;
+}
+
+.loma4{
+	color:white;
+	text-align:center;
+}
+.class4{
+	font-size:60;
+}
+
+.class4a{
+	 font-size:20px;
+	font-weight:700;
+}
